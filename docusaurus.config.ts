@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'AI-Kit',
   tagline: 'The open-source AI toolkit for developers', // Change this to your actual slogan
-  favicon: 'img/favicon.ico', // You can change this later
+  favicon: 'img/icon (1).png', // You can change this later
 
   // Update these for GitHub Pages deployment later
 // 1. Your domain (do NOT put a slash at the end)
