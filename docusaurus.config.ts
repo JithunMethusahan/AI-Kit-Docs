@@ -10,10 +10,15 @@ const config: Config = {
   favicon: 'img/favicon.ico', // You can change this later
 
   // Update these for GitHub Pages deployment later
-  url: 'https://JithunMethusahan.github.io', 
-  baseUrl: '/AI-Kit/', 
-  organizationName: 'JithunMethusahan', 
-  projectName: 'AI-Kit',
+// 1. Your domain (do NOT put a slash at the end)
+  url: 'https://JithunMethusahan.github.io',
+  
+  // 2. THIS IS THE FIX: It must match your repo name with slashes on BOTH sides
+  baseUrl: '/AI-Kit-Docs/', 
+
+  // ...
+  organizationName: 'JithunMethusahan',
+  projectName: 'AI-Kit-Docs',
 
   // ...
 
